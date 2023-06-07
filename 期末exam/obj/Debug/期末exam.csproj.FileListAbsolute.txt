@@ -84,3 +84,8 @@ C:\Users\Student\Desktop\期末exam\期末exam\obj\Debug\期末exam.csproj.CoreC
 C:\Users\Student\Desktop\期末exam\期末exam\obj\Debug\期末exam.csproj.CopyComplete
 C:\Users\Student\Desktop\期末exam\期末exam\obj\Debug\期末exam.dll
 C:\Users\Student\Desktop\期末exam\期末exam\obj\Debug\期末exam.pdb
+C:\Users\Student\Desktop\期末exam\期末exam\bin\EntityFramework.dll
+C:\Users\Student\Desktop\期末exam\期末exam\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\期末exam\期末exam\bin\EntityFramework.xml
+C:\Users\Student\Desktop\期末exam\期末exam\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\期末exam\期末exam\bin\zh-Hant\EntityFramework.resources.dll
